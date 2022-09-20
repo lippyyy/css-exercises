@@ -49,3 +49,8 @@ body{
     font-weight: 800;
     font-size: 14px;
   }
+
+  #confirm-button {
+    color: white;
+    background-color: green;
+  }
