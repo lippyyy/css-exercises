@@ -40,3 +40,11 @@ body{
     font-size: 22px;
     font-weight: 100;
   }
+
+  .text {
+    font-weight: 100;
+  }
+
+  .text.child {
+    font-weight: 800;
+  }
